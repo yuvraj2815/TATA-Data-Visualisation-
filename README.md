@@ -25,8 +25,3 @@ This repository contains a Power BI dashboard project focused on analyzing sales
 - **Power BI**: Data visualization and dashboard creation.
 - **DAX**: Data modeling and custom calculations.
 - **Data Transformation**: Power Query Editor for data cleaning and preparation.
-
-## 📈 Sample Visuals
-
-*(You can upload screenshots of the report here for better presentation)*
-
